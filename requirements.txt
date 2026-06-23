@@ -1,0 +1,12 @@
+PyQt6
+tensorflow
+numpy
+scikit-learn
+scikit-fuzzy
+matplotlib
+requests
+opencv-python
+librosa
+Pillow
+pytest
+sentence-transformers
